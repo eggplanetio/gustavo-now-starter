@@ -23,7 +23,7 @@ git clone [eggplantio repo]
 
 <h2 id="cite">Cites & Thanks</h2>
 
-Thanks to [Brian Gonzolaz]() for building this awesome project and allowing me to hack on it with him.
+Thanks to [Brian Gonzolaz](https://www.briangonzalez.org/) for building this awesome project and allowing me to hack on it with him.
 
 
 
