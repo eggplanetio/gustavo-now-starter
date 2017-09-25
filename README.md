@@ -1,10 +1,12 @@
-<h1 align="center">👨 Learn Gustavo</h1>
+<h1 align="center">👨 Gustavo Now Starter</h1>
 
-<h5 align="center">A quick prototype for building/learning Gustavo</h5>
+<h5 align="center">A quick prototype for building a Gustavo Blog with Now</h5>
 
 ---
 
 [Gustavo](https://github.com/eggplanetio/gustavo) makes it easy to write posts in [Github Gists](https://gist.github.com/) using [markdown](https://daringfireball.net/projects/markdown/) and publish using now to a specific url.
+
+This repository documents getting a Gustavo blog setup quickly. 
 
 Learn more about [Gustavo](https://github.com/eggplanetio/gustavo).
 
