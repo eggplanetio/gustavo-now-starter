@@ -16,7 +16,7 @@ Learn more about [Gustavo](https://github.com/eggplanetio/gustavo).
 
 -  You need a shell app like [terminal](https://lifehacker.com/5857046/the-best-terminal-emulator-for-mac-os-x) or [iterm](https://www.iterm2.com/version3.html). 
 -  Github and Gist access, [Docker](https://www.docker.com/). 
--  It is written by mac users. Please file an [issue](https://github.com/eggplanetio/gustavo/issues) with other notes.
+-  It is written by developers using macs. Please file an [issue](https://github.com/eggplanetio/gustavo/issues) with other notes for other OSs.
 
 ---
 
