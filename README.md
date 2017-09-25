@@ -1,16 +1,20 @@
-<h1 align="center">👨 Learn [Gustavo](https://github.com/eggplanetio/gustavo)</h1>
+<h1 align="center">👨 Learn Gustavo</h1>
 
 <h5 align="center">A quick prototype for learning Gustavo</h5>
 
 ---
 
-Gustavo is speed blogging on steriods. Write [Markdown](https://daringfireball.net/projects/markdown/) articles in [Github Gists](https://gist.github.com/). Gustavo takes care of the rest!
+[Gustavo](https://github.com/eggplanetio/gustavo) makes it easy to write posts in [Github Gists](https://gist.github.com/) using [markdown](https://daringfireball.net/projects/markdown/) and publish using now to a specific url.
 
-Read more about [Gustavo](https://github.com/eggplanetio/gustavo).
+Learn more about [Gustavo](https://github.com/eggplanetio/gustavo).
 
 ---
 
-- Gustavo assumes you have a shell app (like [terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) or [iterm](https://www.iterm2.com/version3.html)), Github and Gist access, [Docker](https://www.docker.com/). It is written by mac users. Please file an [issue]() with other notes!
+#### To use Gustavo 
+
+-  You need a shell app like [terminal](https://lifehacker.com/5857046/the-best-terminal-emulator-for-mac-os-x) or [iterm](https://www.iterm2.com/version3.html). 
+-  Github and Gist access, [Docker](https://www.docker.com/). 
+-  It is written by mac users. Please file an [issue](https://github.com/eggplanetio/gustavo/issues) with other notes.
 
 ---
 
@@ -80,7 +84,7 @@ docker run -p 3000:3000 <gustavo blog>
 
 ---
 
-- Here are some images for [quick reference]()
+- Here are some images for [quick reference](https://github.com/yowainwright/learn-gustavo/blob/master/documentation/image-reference.md).
 
 ---
 
