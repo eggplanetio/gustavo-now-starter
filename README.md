@@ -1,6 +1,6 @@
 <h1 align="center">👨 Learn Gustavo</h1>
 
-<h5 align="center">A quick prototype for learning Gustavo</h5>
+<h5 align="center">A quick prototype for building/learning Gustavo</h5>
 
 ---
 
