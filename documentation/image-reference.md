@@ -6,7 +6,7 @@ Create a new gist
 
 ---
 
-## Write a post using Markdown
+Write a post using Markdown
 
 ![Gist Markdown](https://user-images.githubusercontent.com/1074042/30789268-2c5e98e4-a159-11e7-979e-1c308bc472a1.jpg)
 
